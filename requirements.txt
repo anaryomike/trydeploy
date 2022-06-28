@@ -1,4 +1,4 @@
-arrow==0.13.1
+arrow==0.15.1
 Babel==2.6.0
 cairocffi==1.0.2
 CairoSVG==2.3.0
